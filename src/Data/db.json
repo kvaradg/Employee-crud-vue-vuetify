@@ -1,0 +1,130 @@
+{
+  "Employees": [
+    {
+      "name": "tanu",
+      "designation": "python",
+      "company": "fb",
+      "salary": "7800",
+      "id": "YZUgGGI"
+    },
+    {
+      "name": "varad",
+      "designation": "software developer",
+      "company": "google",
+      "salary": "90000",
+      "id": "OLd37Ca"
+    },
+    {
+      "name": "nihal",
+      "designation": "full stack",
+      "company": "unisys",
+      "salary": "60000",
+      "id": "ypU5u2n"
+    },
+    {
+      "name": "vikas",
+      "designation": "front end developer",
+      "company": "tyss",
+      "salary": "34000",
+      "id": "t5CosYQ"
+    },
+    {
+      "name": "karthik",
+      "designation": "system engineer",
+      "company": "facebook",
+      "salary": "55000",
+      "id": "roXaOBi"
+    },
+    {
+      "name": "preveen",
+      "designation": "backend developer",
+      "company": "affel",
+      "salary": "65000",
+      "id": "7Bvjvy_"
+    },
+    {
+      "name": "lokesh",
+      "designation": "sdet",
+      "company": "tyss",
+      "salary": "45000",
+      "id": "wa3WV8C"
+    },
+    {
+      "name": "sonu",
+      "designation": "developer",
+      "company": "persistent",
+      "salary": "68000",
+      "id": "tRrAEdM"
+    },
+    {
+      "name": "rahul",
+      "designation": "salesforce dev",
+      "company": "wipro",
+      "salary": "30000",
+      "id": "6fiP3KW"
+    },
+    {
+      "name": "siddhant",
+      "designation": "technical support",
+      "company": "tcs",
+      "salary": "26000",
+      "id": "YBlB6Dg"
+    },
+    {
+      "name": "harsh",
+      "designation": "os developer",
+      "company": "persistent",
+      "salary": "75000",
+      "id": "EAC64VV"
+    },
+    {
+      "name": "prasad",
+      "designation": "mechanical engineer",
+      "company": "acc",
+      "salary": "58000",
+      "id": "EsHjJ61"
+    },
+    {
+      "name": "Akshay",
+      "designation": "software tester",
+      "company": "happiest minds",
+      "salary": "95000",
+      "id": "aV-vI4B"
+    },
+    {
+      "name": "vivek",
+      "designation": "sdet",
+      "company": "infosys",
+      "salary": "88000",
+      "id": "Mnorrw_"
+    },
+    {
+      "name": "vishnu",
+      "designation": "developer",
+      "company": "tyss",
+      "salary": "56000",
+      "id": "_ebeKVQ"
+    },
+    {
+      "name": "shiva",
+      "designation": "backend developer",
+      "company": "tcs",
+      "salary": "71000",
+      "id": "nx5-Qd6"
+    },
+    {
+      "name": "bhuvan",
+      "designation": "front end developer",
+      "company": "idexcel",
+      "salary": "35000",
+      "id": "y3yHJ1u"
+    },
+    {
+      "name": "bhanu ",
+      "designation": "backend",
+      "company": "idexcel",
+      "salary": "65000",
+      "id": "-iVGhj2"
+    }
+  ]
+}
